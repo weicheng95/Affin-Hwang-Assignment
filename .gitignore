@@ -1,0 +1,5 @@
+node_modules
+affin-assignment-account.json
+.env
+debug.log
+dist/
